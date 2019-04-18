@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5723e1b-0ee0-42c7-bf95-e020d2664983" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/src/project.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="5962" column="89" lean-forward="true" selection-start-line="5962" selection-start-column="16" selection-end-line="5962" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/cocos2d-js-min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret column="153287" selection-start-column="153287" selection-end-column="153287" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/utils/settings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1431">
+              <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/utils/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/src/settings.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4914">
+              <caret line="182" column="49" selection-start-line="182" selection-start-column="49" selection-end-line="182" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wechatgame/game.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechatgame/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>level</find>
+      <find>onStart</find>
+      <find>boot</find>
+      <find>version</find>
+      <find>local</find>
+      <find>localdata</find>
+      <find>console</find>
+      <find>//</find>
+      <find>data</find>
+      <find>getRecommendConfig</find>
+      <find>getA</find>
+      <find>get</find>
+      <find>geta</find>
+      <find>loading</find>
+      <find>startGameClick</find>
+      <find>removeFromParent</find>
+      <find>this.dataloading</find>
+      <find>scheduleOnce</find>
+      <find>setGameData</find>
+      <find>getObjData</find>
+      <find>Data</find>
+      <find>console.log(&quot;getLocalData=======&quot;)</find>
+      <find>loadAllData</find>
+      <find>getlocaldata</find>
+      <find>getdata</find>
+      <find>globalManager.getLocalData</find>
+      <find>wxHelper.getLocalData</find>
+      <find>location.hostname</find>
+      <find>share&quot;</find>
+      <find>uiManager.seekNodeWithName</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\wechatgames\WantToBeHero\wechatgame\res\import</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wechatgame/cocos2d-js-min.js" />
+        <option value="C:/小游戏/23.I Want To Be Hero-中国-武将合成包壳上（三国英雄志、武将xx）348201739301497/src/project.js" />
+        <option value="$PROJECT_DIR$/wechatgame/res/import/0d/0d70923e.json" />
+        <option value="$PROJECT_DIR$/wechatgame/res/import/0d/0d3daffa8.json" />
+        <option value="$USER_HOME$/AppData/Local/Atlassian/SourceTree/accounts.json" />
+        <option value="$PROJECT_DIR$/wechatgame/res/import/02/02275155d.json" />
+        <option value="$PROJECT_DIR$/wechatgame/utils/project.js" />
+        <option value="$PROJECT_DIR$/wechatgame/utils/helper.min.js" />
+        <option value="$PROJECT_DIR$/wechatgame/utils/settings.js" />
+        <option value="$PROJECT_DIR$/wechatgame/project.config.json" />
+        <option value="$PROJECT_DIR$/wechatgame/game.js" />
+        <option value="$PROJECT_DIR$/wechatgame/src/settings.js" />
+        <option value="$PROJECT_DIR$/wechatgame/main.js" />
+        <option value="$PROJECT_DIR$/res/import/0d/0d70923e.json" />
+        <option value="$PROJECT_DIR$/res/import/02/02275155d.json" />
+        <option value="$PROJECT_DIR$/wechatgame/utils/config.js" />
+        <option value="$PROJECT_DIR$/wechatgame/src/project.js" />
+        <option value="$PROJECT_DIR$/wechatgame/game.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1036" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WantToBeHero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WantToBeHero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WantToBeHero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WantToBeHero" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WantToBeHero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WantToBeHero" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WantToBeHero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WantToBeHero" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WantToBeHero" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WantToBeHero" type="462c0819:PsiDirectoryNode" />
+              <item name="wechatgame" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Car Tycoon" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res" />
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res\raw-assets\Texture\tutorial" />
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res\raw-assets\Texture\spinandbox" />
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res\raw-assets\Texture\dailysharebonus" />
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res\raw-assets\Texture\dailybonus" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame" />
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res" />
+      <recent name="C:\wechatgames\WantToBeHero\wechatgame\res\raw-assets\Texture\bigpic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5723e1b-0ee0-42c7-bf95-e020d2664983" name="Default Changelist" comment="" />
+      <created>1553765771005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553765771005</updated>
+      <workItem from="1553765772140" duration="779000" />
+      <workItem from="1554084137323" duration="14771000" />
+      <workItem from="1554106457884" duration="10411000" />
+      <workItem from="1554169723962" duration="1382000" />
+      <workItem from="1554171202396" duration="139000" />
+      <workItem from="1554177140684" duration="9238000" />
+      <workItem from="1554255535941" duration="94000" />
+      <workItem from="1554367760809" duration="603000" />
+      <workItem from="1554368536897" duration="1821000" />
+      <workItem from="1554773878925" duration="473000" />
+      <workItem from="1554781275882" duration="14695000" />
+      <workItem from="1554806027828" duration="508000" />
+      <workItem from="1554860299729" duration="3355000" />
+      <workItem from="1554882554818" duration="6208000" />
+      <workItem from="1554947601310" duration="30000" />
+      <workItem from="1554950029260" duration="3744000" />
+      <workItem from="1555035456920" duration="3889000" />
+      <workItem from="1555066545312" duration="1979000" />
+      <workItem from="1555300554330" duration="5973000" />
+      <workItem from="1555318687243" duration="83000" />
+      <workItem from="1555320382073" duration="6561000" />
+      <workItem from="1555378339330" duration="3312000" />
+      <workItem from="1555383693571" duration="3817000" />
+      <workItem from="1555466093684" duration="5738000" />
+      <workItem from="1555482827295" duration="5103000" />
+      <workItem from="1555555289815" duration="74000" />
+      <workItem from="1555555645455" duration="1324000" />
+      <workItem from="1555557123211" duration="1377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107481000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.078802206" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/jukun_hecheng_ui_kuang_1.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/jukun_main_ui_jinbi.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/level_bg3.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/store_blank.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/system_close.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/toggle_checked.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/toggle_unchecked.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/triangle.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/fragmentary/white.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/loading/loadingpot.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/loginscene/icon_reset.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/loginscene/sound.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/loginscene/sound_off.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/offline/offline_share.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/offline/offline_video.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/other/173/AutoAtlas-1.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/rank/AutoAtlas-1.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/share/blank.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/share/button.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/share/toggle.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/share/togglebg.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/spinandbox/AutoAtlas-1.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/store/AutoAtlas-1.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/tutorial/AutoAtlas-1.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-internal/image/default_panel.png" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-internal/image/default_sprite_splash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-internal/particle/atom.plist" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-internal/image/default_btn_disabled.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-internal/image/default_btn_normal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-internal/image/default_btn_pressed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/import/02/02275155d.json" />
+    <entry file="file://$PROJECT_DIR$/wechatgame/libs/weapp-adapter/localStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/utils/ald-game.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Atlassian/SourceTree/accounts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/end/endClose.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/raw-assets/Texture/end/endPanel.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/res/import/01/0171e148b.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="92" lean-forward="true" selection-start-column="92" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/utils/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="30" column="100" lean-forward="true" selection-start-line="30" selection-start-column="100" selection-end-line="30" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/project.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/libs/xmldom/dom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/utils/helper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14148">
+          <caret line="524" column="116" selection-start-line="524" selection-start-column="116" selection-end-line="524" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw-assets/resources/gamescene/bigimage/accelerate_worker.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/小游戏/23.I Want To Be Hero-中国-武将合成包壳上（三国英雄志、武将xx）348201739301497/src/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181062">
+          <caret line="6706" column="116" selection-start-line="6706" selection-start-column="116" selection-end-line="6706" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/utils/settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/utils/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/src/settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4914">
+          <caret line="182" column="49" selection-start-line="182" selection-start-column="49" selection-end-line="182" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/cocos2d-js-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret column="153287" selection-start-column="153287" selection-end-column="153287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/src/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="5962" column="89" lean-forward="true" selection-start-line="5962" selection-start-column="16" selection-end-line="5962" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechatgame/game.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
